@@ -1,0 +1,10 @@
+{
+  "id": "tag-graph-edges",
+  "name": "Tag Graph Edges",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Draws graph edges between notes sharing frontmatter tags. Patches both global and local graph views, with raw-content fallback when Obsidian misses YAML frontmatter.",
+  "author": "carlemillindgaardjohansen-byte",
+  "authorUrl": "https://github.com/carlemillindgaardjohansen-byte/Obsidian_tag-graph-edges",
+  "isDesktopOnly": false
+}

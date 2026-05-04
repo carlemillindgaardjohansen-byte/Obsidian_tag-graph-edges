@@ -1,0 +1,14 @@
+{
+  "excludedTags": [
+    "Project-Home",
+    "template",
+    "ai-helpers",
+    "standard",
+    "metadata",
+    "eewtear"
+  ],
+  "minSharedTags": 1,
+  "enableMetadataPatch": true,
+  "enableResolvedLinks": false,
+  "enableGraphPatch": true
+}
